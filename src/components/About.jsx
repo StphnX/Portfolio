@@ -17,9 +17,7 @@ function About() {
                     Before my Bootcamp at WBS Coding School it felt like I was on a search for the right fit for me in the IT industry and finally found my passion.
                     I always worked with people from different backgrounds and professions throughout these interactions I've learned that a good communication is the core of every successful work progress and project.
                 </p>
-                               
-                <br />
-                <p className='text-lg'>
+                <p className='text-lg text-center'>
 
                     Thanks to the bootcamp I was able to find the right fit for me and I am looking forward to going further into the world of Web Development especially the Backend of it.
                     I love being able to create and maintain the backbone for everything to work properly.
