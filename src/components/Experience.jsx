@@ -38,9 +38,9 @@ function Experience() {
         },
         {
             id: 5,
-            src: ReactImage,
-            title: 'React',
-            style: 'shadow-white'
+            src: MongoDB,
+            title: 'MongoDB',
+            style: 'shadow-green-700'
         },
         {
             id: 6,
@@ -56,10 +56,11 @@ function Experience() {
         },
         {
             id: 8,
-            src: MongoDB,
-            title: 'MongoDB',
-            style: 'shadow-green-700'
+            src: ReactImage,
+            title: 'React',
+            style: 'shadow-white'
         }
+        
     ]
 
 
