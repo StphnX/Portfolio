@@ -34,7 +34,7 @@ function Experience() {
             id: 4,
             src: NodeJS,
             title: 'NodeJS',
-            style: 'shadow-green-500'
+            style: 'shadow-lime-400'
         },
         {
             id: 5,
