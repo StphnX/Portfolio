@@ -6,6 +6,7 @@ import ReactImage from '../assets/react.png'
 import NodeJS from '../assets/icons8-nodejs-240.png'
 import SQL from '../assets/sql-server.png'
 import GitHub from '../assets/GitHub.png'
+import MongoDB from '../assets/mongodb.png'
 
 function Experience() {
 
@@ -52,6 +53,12 @@ function Experience() {
             src: GitHub,
             title: 'GitHub',
             style: 'shadow-stone-600'
+        },
+        {
+            id: 8,
+            src: MongoDB,
+            title: 'MongoDB',
+            style: 'shadow-green-700'
         }
     ]
 
